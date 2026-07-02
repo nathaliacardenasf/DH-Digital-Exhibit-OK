@@ -23,6 +23,6 @@ This is a demo collection to practice using CB-GH. I hope to learn how:
 
 Paradise Lost was first published in 1667 as a work divided into 10 books, and later expanded in the 1674 second edition to 12 books, with Books 7 and 10 each split into two separate parts.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The repository contains ten objects curated by Professor Alex Mayhew for use in the GitHub Collection Builder assignment.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
